@@ -1,0 +1,41 @@
+
+
+body { 
+    background-color:mediumseagreen;
+}
+
+.margintop
+{
+    background-color:green;
+    padding: 5px;
+    color: white;
+    margin: 5px;
+    text-align: center;
+}
+
+.name
+{
+    text-align: center;
+}
+
+.phone
+{
+    text-align: center;
+}
+
+.address
+{
+    text-align: center;
+}
+
+.header
+{
+border: 2px solid white;
+padding: 2px;
+margin: 2px;
+text-align: center;
+}
+
+
+
+
